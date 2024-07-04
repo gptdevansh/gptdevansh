@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm devansh</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in Java**
+- 🌱 I’m currently learning
+- ** Advansce Data Structures in C++ **
+- ** Linux **
 
 - 📫 How to reach me **gptdevansh@gmail.com**
 
